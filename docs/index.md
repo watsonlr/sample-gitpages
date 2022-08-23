@@ -1,5 +1,4 @@
 <!--This is an index file. -->
-theme: hacker
 # Index File HERE
 ### *This is the landing page for a gitpages site written entirely in Markdown.*
 <!--Heading 2-->
